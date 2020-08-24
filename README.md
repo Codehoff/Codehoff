@@ -8,4 +8,4 @@
 - [ ] Maybe some more Linux skills?
 - [x] Also Codewars.com 
 
-![alt text](URL:https://www.codewars.com/users/Codehoff/badges/large)
+!["Codewars Badge"](URL:https://www.codewars.com/users/Codehoff/badges/large)
